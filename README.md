@@ -10,7 +10,8 @@ URGENT:
 MEDIUM:
 - Menu (at least Play button working)
 - Create coin item to be able to upgrade your ship
-- "Inventory" (Upgrades)
+- "Inventory" system (Upgrades)
+- Improve Assets (loading images for animations, etc)
 
 LIGHT:
 - Upgrades system(?) (probably not needed)
