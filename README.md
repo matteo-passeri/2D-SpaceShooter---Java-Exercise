@@ -4,7 +4,7 @@
 TO DO
 -----
 - Urgent
-*Change the Comparator renderSorter (it crash with more than 29 creatures(entities?) on screen (not actually possible to have 30 cretures on screen))
+*Change the Comparator renderSorter (it crash with too many creatures(entities?) on screen (not actually possible to have too many creatures on screen))
 *improve spawnEngine (the check of empty space, etc)
 
 - Medium
