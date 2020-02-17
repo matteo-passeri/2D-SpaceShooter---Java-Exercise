@@ -3,16 +3,16 @@
 
 TO DO
 -----
-- Urgent
-*Change the Comparator renderSorter (it crash with too many creatures(entities?) on screen (not actually possible to have too many creatures on screen))
+- Urgent:
+- Change the Comparator renderSorter (it crash with too many creatures(entities?) on screen (not actually possible to have too many creatures on screen))
 *improve spawnEngine (the check of empty space, etc)
 
-- Medium
+- Medium:
 *Menu (at least Play button working)
 *create coin item to be able to upgrade your ship
 *"Inventory" (Upgrades)
 
-- Light
+- Light:
 *Upgrades system(?) (probably not needed)
 *implements more enemy ships
 *implements more user ships
